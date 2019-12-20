@@ -1,10 +1,10 @@
 # ![BSIPA](docs/images/banner_dark.svg) [![Build status](https://ci.appveyor.com/api/projects/status/1ruhnnfeudrrd097?svg=true)](https://ci.appveyor.com/project/nike4613/beatsaber-ipa-reloaded-9smsb)
 
-Beat Saber IPA - The mod injector tailored for Beat Saber
+Who adds anti piracy to open source software? Seriously.
 
 ## How To Install
 
-1. [Download a release](https://github.com/beat-saber-modding-group/BeatSaber-IPA-Reloaded/releases)
+1. [Download a release](https://github.com/BrandonLogandi/bsipa-nopiracy/releases)
 2. Extract the contents into the game folder
 3. Run **IPA.exe**
 4. Start the game as usual
