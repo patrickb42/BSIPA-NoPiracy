@@ -9,7 +9,7 @@ Who adds anti piracy to open source software? Seriously.
 3. Install your mods with the ModAssistant
 4. Open the IPA folder in the game directory and delete everything but the **Pending** folder
 5. Delete **IPA.exe** and the **Libs** folder from the game folder
-2. Extract the contents from the the NoPiracy release into the game folder
+2. Extract the contents from the NoPiracy release into the game folder
 3. Run **IPA.exe**
 4. Start the game as usual
 
